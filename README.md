@@ -9,23 +9,20 @@
 
 ### My background
 #### I was not always on the path of data
-<p> 
-    I completed my BSc in Biomedical science, my MSc in Immunology, and my PhD in Regenerative medicine.
-</p>
-<p>
-    During my studies I had the oppertunity to work with statisticians which ignited my passion for data science.
-</p>
-  
-<br><p> 
-    Since completing my PhD I have made it my mission to learn as much as possible in the way of programming languages to help my progression in data science and anlytics. And although I have learnt a lot, I know I have pleanty more to learn!
-</p>
+ 
+  * I completed my BSc in Biomedical science, my MSc in Immunology, and my PhD in Regenerative medicine.
 
+  * During my studies I had the oppertunity to work with statisticians which ignited my passion for data science.
+
+  * Since completing my PhD I have made it my mission to learn as much as possible in the way of programming languages to help my progression in data science and anlytics. 
+  
+  * And although I have learnt a lot, I know I have pleanty more to learn!
 
 ### My Published work
   
   * My paper which is the root of my passion for data science- <a href="https://doi.org/10.3389/fcell.2021.726281"> Sultan et al., 2021 (https://doi.org/10.3389/fcell.2021.726281)</a>
 
-  * Up-to-date public publications and projects can be found on my <a href="https://www.linkedin.com/in/sami-sultan-phd-9a3b17100/">LinkIn</a>
+  * Up-to-date public publications and projects can be found on my <a href="https://www.linkedin.com/in/sami-sultan-phd-9a3b17100/">LinkedIn</a>
   
   * Checkout my repositories
   
