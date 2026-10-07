@@ -37,7 +37,7 @@
 ### Operating Systems
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/SamiSultanPhD)
 [![iOS](https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=iOS)](https://github.com/SamiSultanPhD)
-[![Ubuntu](https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=Ubuntu)](https://github.com/SamiSultanPhD)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu)](https://github.com/SamiSultanPhD)
 
 <a href="https://github.com/SamiSultanPhD">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiSultanPhD&langs_count=10&exclude_repo=&hide=&card_width=699&hide_border=true&theme=transparent" />
